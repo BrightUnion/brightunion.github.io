@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://brightunion.netlify.app//US-Nepal-MCC/</loc>
-    <lastmod>2022-03-05</lastmod>
-  </url>
-  <url>
-    <loc>https://brightunion.netlify.app//wechat-cp-2022ru/</loc>
-    <lastmod>2022-03-05</lastmod>
-  </url>
-  <url>
     <loc>https://brightunion.netlify.app/2021/06/30/100th/</loc>
     <lastmod>2022-03-05</lastmod>
   </url>
@@ -81,6 +73,10 @@
     <lastmod>2022-03-05</lastmod>
   </url>
   <url>
+    <loc>https://brightunion.netlify.app//US-Nepal-MCC/</loc>
+    <lastmod>2022-03-05</lastmod>
+  </url>
+  <url>
     <loc>https://brightunion.netlify.app/2021/08/09/Hua-xia/</loc>
     <lastmod>2022-03-05</lastmod>
   </url>
@@ -90,6 +86,10 @@
   </url>
   <url>
     <loc>https://brightunion.netlify.app/2021/04/18/fu-li-guo-jia-de-mi-mi/</loc>
+    <lastmod>2022-03-05</lastmod>
+  </url>
+  <url>
+    <loc>https://brightunion.netlify.app//wechat-cp-2022ru/</loc>
     <lastmod>2022-03-05</lastmod>
   </url>
 </urlset> 
