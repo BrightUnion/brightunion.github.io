@@ -537,6 +537,33 @@
   
   
   <entry>
+    <title>国内网络环境下网站加载太慢？</title>
+    <link href="/2021/07/28/Too-slow/"/>
+    <url>/2021/07/28/Too-slow/</url>
+    
+    <content type="html"><![CDATA[<h2 id="2021年12月21日更新：关于jsDelivr大陆备案许可被注销情况的说明"><a href="#2021年12月21日更新：关于jsDelivr大陆备案许可被注销情况的说明" class="headerlink" title="2021年12月21日更新：关于jsDelivr大陆备案许可被注销情况的说明"></a>2021年12月21日更新：关于jsDelivr大陆备案许可被注销情况的说明</h2><p>由于jsDelivr大陆备案许可被注销，jsDelivr临时通过DNS域名解析系统将中国大陆地区全部请求转到临近区域（香港等地），且光明联盟官网采用jsDelivr CDN加速服务，使用香港数据中心的节点自然不如使用内地节点的访问速度快，所以今后访问光明联盟官网的速度可能会稍慢，望周知。</p><hr><h2 id="2021年07月28日"><a href="#2021年07月28日" class="headerlink" title="2021年07月28日"></a>2021年07月28日</h2><p>如果您访问的域名“ <a href="https://brightunion.github.io/">https://brightunion.github.io</a> ”加载太慢，那么请尝试：<a href="https://brightunion.netlify.app/">https://brightunion.netlify.app</a> 或 <a href="https://brightunion.vercel.app/">https://brightunion.vercel.app</a></p><hr><p><img src="/img/bu.png"></p><p><img src="/img/WeChatSearch.png"></p><p><img src="/img/QQChannel.png"></p><p><img src="/img/bufb.png"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>光联动态</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>光明联盟</tag>
+      
+      <tag>提示</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>社会新闻舆论的秘密</title>
     <link href="/2021/07/27/Social-News/"/>
     <url>/2021/07/27/Social-News/</url>
