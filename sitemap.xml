@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://brightunion.netlify.app/2021/06/30/100th/</loc>
-    
-    <lastmod>2022-03-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/2021/12/17/10th/</loc>
-    
-    <lastmod>2022-03-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://brightunion.netlify.app/2022/01/26/BU-QQChannel/</loc>
     
     <lastmod>2022-03-24</lastmod>
@@ -39,6 +21,15 @@
   
   <url>
     <loc>https://brightunion.netlify.app/2021/01/27/Expound-Nihilist/</loc>
+    
+    <lastmod>2022-03-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/2021/07/22/How-to-build-socialism-in-the-public-domain/</loc>
     
     <lastmod>2022-03-24</lastmod>
     
@@ -191,15 +182,6 @@
   </url>
   
   <url>
-    <loc>https://brightunion.netlify.app/2021/07/22/How-to-build-socialism-in-the-public-domain/</loc>
-    
-    <lastmod>2022-03-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://brightunion.netlify.app/2021/08/09/Hua-xia/</loc>
     
     <lastmod>2022-03-24</lastmod>
@@ -246,6 +228,24 @@
   
   <url>
     <loc>https://brightunion.netlify.app/about/index.html</loc>
+    
+    <lastmod>2022-03-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/2021/06/30/100th/</loc>
+    
+    <lastmod>2022-03-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/2021/12/17/10th/</loc>
     
     <lastmod>2022-03-24</lastmod>
     
@@ -368,6 +368,62 @@
   </url>
   
   <url>
+    <loc>https://brightunion.netlify.app/tags/Laforey/</loc>
+    <lastmod>2022-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/tags/%E5%85%AC%E5%85%B1%E9%A2%86%E5%9F%9F/</loc>
+    <lastmod>2022-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/tags/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/</loc>
+    <lastmod>2022-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/tags/%E4%BA%92%E8%81%94%E7%BD%91/</loc>
+    <lastmod>2022-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/tags/%E8%88%86%E8%AE%BA/</loc>
+    <lastmod>2022-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/tags/%E5%BE%AE%E5%8D%9A/</loc>
+    <lastmod>2022-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/tags/%E8%B5%84%E6%9C%AC%E5%AE%B6/</loc>
+    <lastmod>2022-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/tags/UGC/</loc>
+    <lastmod>2022-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://brightunion.netlify.app/tags/CUC/</loc>
     <lastmod>2022-03-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -432,13 +488,6 @@
   
   <url>
     <loc>https://brightunion.netlify.app/tags/%E5%85%B1%E4%BA%A7%E5%85%9A/</loc>
-    <lastmod>2022-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/tags/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/</loc>
     <lastmod>2022-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -530,13 +579,6 @@
   
   <url>
     <loc>https://brightunion.netlify.app/tags/%E5%9B%BD%E9%99%85%E6%94%BF%E6%B2%BB/</loc>
-    <lastmod>2022-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/tags/%E8%88%86%E8%AE%BA/</loc>
     <lastmod>2022-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -670,13 +712,6 @@
   
   <url>
     <loc>https://brightunion.netlify.app/tags/%E5%AE%89%E5%85%A8/</loc>
-    <lastmod>2022-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/tags/Laforey/</loc>
     <lastmod>2022-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -831,41 +866,6 @@
   
   <url>
     <loc>https://brightunion.netlify.app/tags/%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%BA%E5%A4%B1%E4%BA%8B/</loc>
-    <lastmod>2022-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/tags/%E5%85%AC%E5%85%B1%E9%A2%86%E5%9F%9F/</loc>
-    <lastmod>2022-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/tags/%E4%BA%92%E8%81%94%E7%BD%91/</loc>
-    <lastmod>2022-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/tags/%E5%BE%AE%E5%8D%9A/</loc>
-    <lastmod>2022-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/tags/%E8%B5%84%E6%9C%AC%E5%AE%B6/</loc>
-    <lastmod>2022-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/tags/UGC/</loc>
     <lastmod>2022-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
