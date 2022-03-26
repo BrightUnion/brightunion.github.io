@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://brightunion.netlify.app/US-Nepal-MCC/</loc>
+    
+    <lastmod>2022-03-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/MU5735/</loc>
+    
+    <lastmod>2022-03-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/about/index.html</loc>
+    
+    <lastmod>2022-03-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://brightunion.netlify.app/2021/06/30/100th/</loc>
     
     <lastmod>2022-03-26</lastmod>
@@ -182,24 +209,6 @@
   </url>
   
   <url>
-    <loc>https://brightunion.netlify.app/US-Nepal-MCC/</loc>
-    
-    <lastmod>2022-03-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/MU5735/</loc>
-    
-    <lastmod>2022-03-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://brightunion.netlify.app/2021/08/09/Hua-xia/</loc>
     
     <lastmod>2022-03-26</lastmod>
@@ -246,15 +255,6 @@
   
   <url>
     <loc>https://brightunion.netlify.app/CPCuba-CPChina/</loc>
-    
-    <lastmod>2022-03-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/about/index.html</loc>
     
     <lastmod>2022-03-26</lastmod>
     
