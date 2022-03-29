@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://brightunion.netlify.app/2021/06/26/U-No-1/</loc>
+    
+    <lastmod>2022-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/2021/08/08/U-No-2/</loc>
+    
+    <lastmod>2022-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/2021/11/28/U-No-3/</loc>
+    
+    <lastmod>2022-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://brightunion.netlify.app/2021/08/02/a-refutation-post-about-a-refutation-post-2/</loc>
     
     <lastmod>2022-03-29</lastmod>
@@ -219,33 +246,6 @@
   
   <url>
     <loc>https://brightunion.netlify.app/2021/07/28/Too-slow/</loc>
-    
-    <lastmod>2022-03-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/2021/06/26/U-No-1/</loc>
-    
-    <lastmod>2022-03-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/2021/08/08/U-No-2/</loc>
-    
-    <lastmod>2022-03-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/2021/11/28/U-No-3/</loc>
     
     <lastmod>2022-03-29</lastmod>
     
@@ -748,7 +748,7 @@
   </url>
   
   <url>
-    <loc>https://brightunion.netlify.app/tags/%E5%85%89%E6%98%8E%E8%81%94%E7%9B%9F%E7%BB%9F%E4%B8%80%E5%8F%8D%E9%A6%88%E5%B9%B3%E5%8F%B0/</loc>
+    <loc>https://brightunion.netlify.app/tags/%E5%85%89%E6%98%8E%E8%81%94%E7%9B%9F%E5%8A%9E%E4%BA%8B%E5%A4%A7%E5%8E%85/</loc>
     <lastmod>2022-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
