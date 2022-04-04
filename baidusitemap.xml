@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://brightunion.netlify.app/2021/06/30/100th/</loc>
+    <lastmod>2022-04-04</lastmod>
+  </url>
+  <url>
     <loc>https://brightunion.netlify.app/2021/12/17/10th/</loc>
     <lastmod>2022-04-04</lastmod>
   </url>
@@ -45,15 +49,15 @@
     <lastmod>2022-04-04</lastmod>
   </url>
   <url>
-    <loc>https://brightunion.netlify.app/2021/08/08/U-No-2/</loc>
-    <lastmod>2022-04-04</lastmod>
-  </url>
-  <url>
     <loc>https://brightunion.netlify.app/2021/11/28/U-No-3/</loc>
     <lastmod>2022-04-04</lastmod>
   </url>
   <url>
     <loc>https://brightunion.netlify.app/2021/08/02/a-refutation-post-about-a-refutation-post-2/</loc>
+    <lastmod>2022-04-04</lastmod>
+  </url>
+  <url>
+    <loc>https://brightunion.netlify.app/2021/08/08/U-No-2/</loc>
     <lastmod>2022-04-04</lastmod>
   </url>
   <url>
@@ -106,10 +110,6 @@
   </url>
   <url>
     <loc>https://brightunion.netlify.app//CPCuba-CPChina/</loc>
-    <lastmod>2022-04-04</lastmod>
-  </url>
-  <url>
-    <loc>https://brightunion.netlify.app/2021/06/30/100th/</loc>
     <lastmod>2022-04-04</lastmod>
   </url>
 </urlset> 
