@@ -61,7 +61,7 @@ collections:      # https://www.netlifycms.org/docs/configuration-options/#colle
       - {label: "文章排序权重", name: "sticky", widget: "number", required: false}
       - {label: "在首页中隐藏此文章", name: "hide", widget: "boolean", default: false, required: false}
       #  comment: 'This is a multiline\ncomment'
-      # - {label: "评论区", name: "comments", widget: "boolean", default: true, required: false}
+      - {label: "评论区", name: "comments", widget: "boolean", default: true, required: false}
       # - {label: "关键词", name: "keywords", widget: "list", required: false}
     editor:
       preview: true
