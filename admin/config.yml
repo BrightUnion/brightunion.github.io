@@ -44,18 +44,18 @@ collections:      # https://www.netlifycms.org/docs/configuration-options/#colle
     create: true # 允许用户在这个集合中创建新的文件。
     fields: # 每份文件的字段，通常是前面的内容。
       - {label: "标题", name: "title", widget: "string"}
-      - {label: "作者", name: "author", widget: "string", required: false} 
-      - {label: "摘要", name: "excerpt", widget: "list", required: false}
-      - {label: "文章页顶部大图", name: "banner_img", widget: "image", required: false} 
-      - {label: "文章在首页的封面图", name: "index_img", widget: "image", required: false} 
-      - {label: "发布日期", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss", dateFormat: "YYYY-MM-DD", timeFormat: "HH:mm:ss", required: false}
-      # - {label: "更新日期", name: "updated", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss", dateFormat: "YYYY-MM-DD", timeFormat: "HH:mm:ss", required: false}
-      - {label: "永久链接", name: "permalink", widget: "string", required: false}
-      - {label: "内容", name: "body", widget: "markdown", required: false}
       - label: "分类"
         name: "categories"
         widget: "select"
         options: ["理论文章", "红色曙光快讯", "光联动态"]
+      - {label: "作者", name: "author", widget: "string", required: false} 
+      - {label: "摘要", name: "excerpt", widget: "list", required: false}
+      - {label: "文章页顶部大图", name: "banner_img", widget: "image", required: false} 
+      - {label: "文章在首页的封面图", name: "index_img", widget: "image", required: false} 
+      - {label: "内容", name: "body", widget: "markdown", required: false}
+      - {label: "发布日期", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss", dateFormat: "YYYY-MM-DD", timeFormat: "HH:mm:ss", required: false}
+      # - {label: "更新日期", name: "updated", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss", dateFormat: "YYYY-MM-DD", timeFormat: "HH:mm:ss", required: false}
+      - {label: "永久链接", name: "permalink", widget: "string", required: false}
       - {label: "标签", name: "tags", widget: "list", required: false}
       #- {label: "分类", name: "categories", widget: "list", required: false}
       - {label: "文章排序权重", name: "sticky", widget: "number", required: false}
