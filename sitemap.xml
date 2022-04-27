@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://brightunion.netlify.app/US-Nepal-MCC/</loc>
+    
+    <lastmod>2022-04-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/MU5735/</loc>
+    
+    <lastmod>2022-04-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/German-CP-Problems-in-the-construction-of-socialism-after-the-proletarian-revolution_Kobele/</loc>
+    
+    <lastmod>2022-04-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/frieden-geht-nur-mit-russland-und-china/</loc>
+    
+    <lastmod>2022-04-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/wechat-cp-2022ru/</loc>
+    
+    <lastmod>2022-04-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://brightunion.netlify.app/about/index.html</loc>
     
     <lastmod>2022-04-27</lastmod>
@@ -74,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://brightunion.netlify.app/2021/08/06/Sino-US/</loc>
+    <loc>https://brightunion.netlify.app/2021/08/06/KOR-Movies/</loc>
     
     <lastmod>2022-04-27</lastmod>
     
@@ -83,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://brightunion.netlify.app/2021/08/06/KOR-Movies/</loc>
+    <loc>https://brightunion.netlify.app/2021/08/06/Sino-US/</loc>
     
     <lastmod>2022-04-27</lastmod>
     
@@ -200,24 +245,6 @@
   </url>
   
   <url>
-    <loc>https://brightunion.netlify.app/US-Nepal-MCC/</loc>
-    
-    <lastmod>2022-04-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/MU5735/</loc>
-    
-    <lastmod>2022-04-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://brightunion.netlify.app/2021/08/09/Hua-xia/</loc>
     
     <lastmod>2022-04-27</lastmod>
@@ -255,33 +282,6 @@
   
   <url>
     <loc>https://brightunion.netlify.app/CPCuba-CPChina/</loc>
-    
-    <lastmod>2022-04-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/German-CP-Problems-in-the-construction-of-socialism-after-the-proletarian-revolution_Kobele/</loc>
-    
-    <lastmod>2022-04-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/frieden-geht-nur-mit-russland-und-china/</loc>
-    
-    <lastmod>2022-04-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/wechat-cp-2022ru/</loc>
     
     <lastmod>2022-04-27</lastmod>
     
@@ -537,6 +537,34 @@
   </url>
   
   <url>
+    <loc>https://brightunion.netlify.app/tags/%E7%A4%BE%E4%BC%9A%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2022-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/tags/%E9%9F%A9%E5%9B%BD/</loc>
+    <lastmod>2022-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/tags/%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2022-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://brightunion.netlify.app/tags/%E5%92%8C%E5%B9%B3%E6%BC%94%E5%8F%98/</loc>
+    <lastmod>2022-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://brightunion.netlify.app/tags/%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E6%91%A9%E6%93%A6/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -587,34 +615,6 @@
   
   <url>
     <loc>https://brightunion.netlify.app/tags/%E5%9B%BD%E9%99%85%E6%94%BF%E6%B2%BB/</loc>
-    <lastmod>2022-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/tags/%E7%A4%BE%E4%BC%9A%E6%96%B0%E9%97%BB/</loc>
-    <lastmod>2022-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/tags/%E9%9F%A9%E5%9B%BD/</loc>
-    <lastmod>2022-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/tags/%E7%94%B5%E5%BD%B1/</loc>
-    <lastmod>2022-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://brightunion.netlify.app/tags/%E5%92%8C%E5%B9%B3%E6%BC%94%E5%8F%98/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
