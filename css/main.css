@@ -1246,16 +1246,19 @@ i.iconfont {
     font-size: 1.25rem;
   }
 }
-.v[data-class=v] .status-bar,
-.v[data-class=v] .veditor,
-.v[data-class=v] .vinput,
-.v[data-class=v] .vbtn,
-.v[data-class=v] p,
-.v[data-class=v] pre code {
-  color: var(--text-color) !important;
+#valine.v[data-class=v] .status-bar,
+#valine.v[data-class=v] .veditor,
+#valine.v[data-class=v] .vinput,
+#valine.v[data-class=v] .vbtn,
+#valine.v[data-class=v] p,
+#valine.v[data-class=v] pre code {
+  color: var(--text-color);
 }
-.v[data-class=v] .vicon {
-  fill: var(--text-color) !important;
+#valine.v[data-class=v] .vinput::placeholder {
+  color: var(--sec-text-color);
+}
+#valine.v[data-class=v] .vicon {
+  fill: var(--text-color);
 }
 .gt-container .gt-comment-content:hover {
   -webkit-box-shadow: none;
