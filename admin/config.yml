@@ -61,7 +61,7 @@ collections:      # https://www.netlifycms.org/docs/configuration-options/#colle
       - {label: "内容", name: "body", widget: "markdown", required: false, hint: '请尽量不要使用中文输入法编辑文章，否则可能出现光标错位/偏移问题。请尽量不要使用手机UA进行编辑，如果手机端操作请开启“访问电脑版”模式，否则可能编辑失效。如果在 Windows 端写/修改文章，建议先在记事本或者 Word/WPS 上写好，再粘贴至网站内容管理系统的编辑框，以免编辑失效。' }
       - {label: "发布日期", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss", dateFormat: "YYYY-MM-DD", timeFormat: "HH:mm:ss", required: false}
       # - {label: "更新日期", name: "updated", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss", dateFormat: "YYYY-MM-DD", timeFormat: "HH:mm:ss", required: false}
-      - {label: "永久链接", name: "permalink", widget: "string", required: false, hint: '填写的字符串请以“/”结尾。示例：若你希望将文章网址设置为“https://www.brightunion.xyz/example/”，则在这个文本框填入“example/”。'}
+      - {label: "永久链接", name: "permalink", widget: "string", required: false, hint: '填写的字符串请以“/”结尾。示例：若你希望将文章网址设置为“https://www.brightunion.xyz/example/”，则填入“example/”。'}
       - {label: "标签", name: "tags", widget: "list", required: false, hint: '多个标签之间请使用英文标点“, ”进行区分。'}
       #- {label: "分类", name: "categories", widget: "list", required: false}
       - {label: "文章排序权重", name: "sticky", widget: "number", required: false, hint: '输入数值，数值越大，该文章越靠前，达到类似于置顶的效果。若此行留空，文章将按默认排序。'}
