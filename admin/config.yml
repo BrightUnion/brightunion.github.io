@@ -6,7 +6,7 @@ backend:
 publish_mode: editorial_workflow
 
 # This line should *not* be indented
-media_folder: "themes/fluid/source/img" # 媒体文件将存储在图片/上载下的Repo中。
+media_folder: "/themes/fluid/source/img" # 媒体文件将存储在图片/上载下的Repo中。
 public_folder: "/img" # 上传的媒体的src属性将以/images/uploads开头。
 
 site_url: https://www.brightunion.xyz # 网站网址
@@ -60,9 +60,9 @@ collections:      # https://www.netlifycms.org/docs/configuration-options/#colle
       - {label: "发布日期", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss", dateFormat: "YYYY-MM-DD", timeFormat: "HH:mm:ss", required: false}
       # - {label: "更新日期", name: "updated", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss", dateFormat: "YYYY-MM-DD", timeFormat: "HH:mm:ss", required: false}
       - {label: "永久链接", name: "permalink", widget: "string", required: false, hint: '填写的字符串请以“/”结尾。'}
-      - {label: "标签", name: "tags", widget: "list", required: false}
+      - {label: "标签", name: "tags", widget: "list", required: false, hint: '多个标签之间请使用英文标点“, ”进行区分。'}
       #- {label: "分类", name: "categories", widget: "list", required: false}
-      - {label: "文章排序权重", name: "sticky", widget: "number", required: false}
+      - {label: "文章排序权重", name: "sticky", widget: "number", required: false, hint: '若输入数值，数值越大，该文章越靠前，达到类似于置顶的效果，若不输入数值，文章将按默认排序。'}
       - {label: "在首页中隐藏此文章", name: "hide", widget: "boolean", default: false, required: false}
       #  comment: 'This is a multiline\ncomment'
       - {label: "评论区", name: "comments", widget: "boolean", default: true, required: false}
