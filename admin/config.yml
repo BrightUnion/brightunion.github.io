@@ -48,12 +48,14 @@ collections:      # https://www.netlifycms.org/docs/configuration-options/#colle
         name: "categories"
         widget: "select"
         options: ["理论文章", "红色曙光快讯", "光联动态"]
-      - label: "分类展示（请与分类选择一致）"
+        hint: '请与“分类展示”的选择项保持一致。'
+      - label: "分类展示"
         name: "category_bar"
         widget: "select"
         options: ["理论文章", "红色曙光快讯", "光联动态"]
+        hint: '请与“分类”的选择项保持一致。'
       - {label: "作者", name: "author", widget: "string", required: false} 
-      - {label: "摘要", name: "excerpt", widget: "list", required: false}
+      - {label: "摘要", name: "excerpt", widget: "list", required: false, hint: '摘要都最多显示 3 行，当屏幕宽度不足时会隐藏部分摘要。'}
       - {label: "文章页顶部大图", name: "banner_img", widget: "image", required: false} 
       - {label: "文章在首页的封面图", name: "index_img", widget: "image", required: false} 
       - {label: "内容", name: "body", widget: "markdown", required: false, hint: '请尽量不要使用中文输入法编辑文章，否则可能出现光标错位/偏移问题。请尽量不要使用手机UA进行编辑，如果手机端操作请开启“访问电脑版”模式，否则可能编辑失效。如果在 Windows 端写/修改文章，建议先在记事本或者 Word/WPS 上写好，再粘贴至网站内容管理系统的编辑框，以免编辑失效。' }
@@ -63,7 +65,7 @@ collections:      # https://www.netlifycms.org/docs/configuration-options/#colle
       - {label: "标签", name: "tags", widget: "list", required: false, hint: '多个标签之间请使用英文标点“, ”进行区分。'}
       #- {label: "分类", name: "categories", widget: "list", required: false}
       - {label: "文章排序权重", name: "sticky", widget: "number", required: false, hint: '输入数值，数值越大，该文章越靠前，达到类似于置顶的效果。若此行留空，文章将按默认排序。'}
-      - {label: "在首页中隐藏此文章", name: "hide", widget: "boolean", default: false, required: false}
+      - {label: "隐藏文章", name: "hide", widget: "boolean", default: false, required: false, hint: '打开此开关后，网站首页、分类页和标签页将不会显示此文章，但依然可以通过文章链接访问此文章。'}
       #  comment: 'This is a multiline\ncomment'
       - {label: "评论区", name: "comments", widget: "boolean", default: true, required: false}
       # - {label: "关键词", name: "keywords", widget: "list", required: false}
