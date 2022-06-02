@@ -55,7 +55,7 @@ collections:      # https://www.netlifycms.org/docs/configuration-options/#colle
         options: ["理论文章", "红色曙光快讯", "光联动态"]
         hint: '请与“分类”的选择项保持一致。'
       - {label: "作者", name: "author", widget: "string", required: false} 
-      - {label: "摘要", name: "excerpt", widget: "list", required: false, hint: '摘要都最多显示 3 行，当屏幕宽度不足时会隐藏部分摘要。'}
+      - {label: "摘要", name: "excerpt", widget: "list", required: false, hint: '网站首页的文章摘要最多显示 3 行，当屏幕宽度不足时会隐藏超出的摘要部分。'}
       - {label: "文章页顶部大图", name: "banner_img", widget: "image", required: false} 
       - {label: "文章在首页的封面图", name: "index_img", widget: "image", required: false} 
       - {label: "内容", name: "body", widget: "markdown", required: false, hint: '请尽量不要使用中文输入法编辑文章，否则可能出现光标错位/偏移问题。请尽量不要使用手机UA进行编辑，如果手机端操作请开启“访问电脑版”模式，否则可能编辑失效。如果在 Windows 端写/修改文章，建议先在记事本或者 Word/WPS 上写好，再粘贴至网站内容管理系统的编辑框，以免编辑失效。' }
