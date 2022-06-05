@@ -39,7 +39,7 @@ auto_generator:
 collections:      # https://www.netlifycms.org/docs/configuration-options/#collections
   - name: "posts" # 在路由中使用，例如：/admin/collections/blog。
     label: "文章" # 在用户界面中使用
-    description: "欢迎使用光明联盟·网站内容管理系统，在这里可以在线新建、管理和编辑光明联盟网站文章。请尽量不要使用中文输入法编辑文章，否则可能出现光标错位/偏移问题。请尽量不要使用手机UA进行编辑，如果手机端操作请开启“访问电脑版”模式，否则可能编辑失效。网站的任何改动会在一分钟左右后才体现。如果遇到使用方面的问题，请先查阅“使用说明”：https://www.yuque.com/brightunion/brightunion/rpkdk9，若不能解决再联系管理员。祝您使用愉快！"
+    description: "欢迎使用光明联盟·网站内容管理系统，如果遇到使用方面的问题，请先查阅“使用说明”：https://wiki.brightunion.xyz/ ，若不能解决再联系管理员。祝您使用愉快！"
     folder: "source/_posts" # 存储文件的文件夹的路径。
     create: true # 允许用户在这个集合中创建新的文件。
     fields: # 每份文件的字段，通常是前面的内容。
