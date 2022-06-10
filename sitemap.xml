@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.brightunion.xyz/about/index.html</loc>
+    <loc>https://www.brightunion.xyz/2021/09/25/Culture-Safety/</loc>
+    
+    <lastmod>2022-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.brightunion.xyz/2021/01/27/Expound-Nihilist/</loc>
+    
+    <lastmod>2022-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.brightunion.xyz/2021/07/22/How-to-build-socialism-in-the-public-domain/</loc>
     
     <lastmod>2022-06-10</lastmod>
     
@@ -254,6 +272,15 @@
   </url>
   
   <url>
+    <loc>https://www.brightunion.xyz/about/index.html</loc>
+    
+    <lastmod>2022-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.brightunion.xyz/2021/06/30/100th/</loc>
     
     <lastmod>2022-06-10</lastmod>
@@ -273,33 +300,6 @@
   
   <url>
     <loc>https://www.brightunion.xyz/2022/01/26/BU-QQChannel/</loc>
-    
-    <lastmod>2022-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.brightunion.xyz/2021/09/25/Culture-Safety/</loc>
-    
-    <lastmod>2022-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.brightunion.xyz/2021/01/27/Expound-Nihilist/</loc>
-    
-    <lastmod>2022-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.brightunion.xyz/2021/07/22/How-to-build-socialism-in-the-public-domain/</loc>
     
     <lastmod>2022-06-10</lastmod>
     
