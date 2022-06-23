@@ -61,7 +61,7 @@ collections:      # https://www.netlifycms.org/docs/configuration-options/#colle
 
       - {label: "文章排序权重", name: "sticky", widget: "number", required: false, hint: '输入数值，数值越大，该文章越靠前，达到类似于置顶的效果。若此行留空，文章将按默认排序。'}
       - {label: "隐藏文章", name: "hide", widget: "boolean", default: false, required: false, hint: '打开此开关后，网站首页、分类页和标签页将不会显示此文章，但依然可以通过文章链接访问此文章。'}
-      - {label: "文章加密密码", name: "password", widget: "string", required: false, hint: '在此输入设定的密码以加密文章，设定密码后访客浏览时需要输入设定的密码才能查看文章。若不输入，则文章不会被加密'}
+      - {label: "文章加密密码", name: "password", widget: "string", required: false, hint: '在此输入设定的密码以加密文章，设定密码后访客浏览时需要输入设定的密码才能查看文章。若不输入，则文章不会被加密。'}
       #  comment: 'This is a multiline\ncomment'
       # - {label: "评论区", name: "comments", widget: "boolean", default: true, required: false}
       # - {label: "关键词", name: "keywords", widget: "list", required: false}
