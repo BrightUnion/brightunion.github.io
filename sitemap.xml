@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.brightunion.xyz/US-Nepal-MCC/</loc>
-    
-    <lastmod>2022-06-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.brightunion.xyz/MU5735/</loc>
-    
-    <lastmod>2022-06-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.brightunion.xyz/CPA-CPC/</loc>
     
     <lastmod>2022-06-23</lastmod>
@@ -227,15 +209,6 @@
   </url>
   
   <url>
-    <loc>https://www.brightunion.xyz/HOW-THE-US-PUSHED-UKRAINE-INTO-THE-WAR/</loc>
-    
-    <lastmod>2022-06-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.brightunion.xyz/2022-02-27-kpu/</loc>
     
     <lastmod>2022-06-23</lastmod>
@@ -245,7 +218,34 @@
   </url>
   
   <url>
+    <loc>https://www.brightunion.xyz/HOW-THE-US-PUSHED-UKRAINE-INTO-THE-WAR/</loc>
+    
+    <lastmod>2022-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.brightunion.xyz/CP-of-Turkey-Your-wars-our-dead.-No-to-the-imperialist-war-Contribution-of-TKP-for-the-antiimperialist-event-organized-by-PCTE-in-Madrid-on-May-28/</loc>
+    
+    <lastmod>2022-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.brightunion.xyz/US-Nepal-MCC/</loc>
+    
+    <lastmod>2022-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.brightunion.xyz/MU5735/</loc>
     
     <lastmod>2022-06-23</lastmod>
     
@@ -842,6 +842,20 @@
   </url>
   
   <url>
+    <loc>https://www.brightunion.xyz/tags/%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%B1%E4%BA%A7%E5%85%9A/</loc>
+    <lastmod>2022-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.brightunion.xyz/tags/%E8%A5%BF%E8%92%99%E5%B9%B4%E7%A7%91/</loc>
+    <lastmod>2022-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.brightunion.xyz/tags/%E4%B9%8C%E5%85%8B%E5%85%B0/</loc>
     <lastmod>2022-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -857,20 +871,6 @@
   
   <url>
     <loc>https://www.brightunion.xyz/tags/%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6%E5%85%B1%E4%BA%A7%E5%85%9A/</loc>
-    <lastmod>2022-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.brightunion.xyz/tags/%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%B1%E4%BA%A7%E5%85%9A/</loc>
-    <lastmod>2022-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.brightunion.xyz/tags/%E8%A5%BF%E8%92%99%E5%B9%B4%E7%A7%91/</loc>
     <lastmod>2022-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
